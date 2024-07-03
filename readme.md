@@ -1,2 +1,1 @@
-# Complete react (Project Approach), Total Projects included: 10
-# Tutor : Hitesh Choudhary
+# Complete react (Project Approach), Total Projects included: 10, By: HC
